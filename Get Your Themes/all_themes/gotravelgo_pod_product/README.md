@@ -1,4 +1,4 @@
-# 📂 Theme Details: [GoTRVLGO]
+# 📂 Theme Details: [GoTrvlGO]
 
 এটি একটি Single product এর স্টোর যেখানে Travel Bag প্রর্দশন করা হয়েছে।
 
@@ -16,9 +16,9 @@
 - **Product Type:** POD
 
 ### 👤 Contribution Details
-- **Developer:** [ Naeem ]
-- **Marketplace Profile:** [ Ecomgaint ]
-- **Client Name:** [ kingdubi7  ]
+- **Developer:** [Touhidul]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [kingdubiz]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

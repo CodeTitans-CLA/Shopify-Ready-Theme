@@ -15,9 +15,9 @@
 - **Product Type:** personal Product
 
 ### 👤 Contribution Details
-- **Developer:** [ Al-Amin ]
-- **Marketplace Profile:** [ Ecomgaint ]
-- **Client Name:** [ emrahdesouza10  ]
+- **Developer:** [Al-Amin]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [emrahdesouza10]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

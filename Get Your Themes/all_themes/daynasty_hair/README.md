@@ -1,6 +1,6 @@
 # 📂 Theme Details: [dynastyhair]
 
-এটি একটি multi product এর স্টোর যেখানে preasuer Cleaning product প্রর্দশন করা হয়েছে।
+এটি একটি multi product এর স্টোর যেখানে Hair Extention Proudt প্রর্দশন করা হয়েছে।
 ### 📥 Download Theme
 [Download Zip File](./theme_export__dynastyhair-fr-theme__10APR2026-1250pm.zip)
 
@@ -15,9 +15,9 @@
 - **Product Type:** Personal produt
 
 ### 👤 Contribution Details
-- **Developer:** [ Imon ]
-- **Marketplace Profile:** [ Ecomgaint ]
-- **Client Name:** [ addymasengo  ]
+- **Developer:** [Imon]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [addymasengo]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

@@ -15,9 +15,9 @@
 - **Product Type:** DropShipping Product
 
 ### 👤 Contribution Details
-- **Developer:** [ jashim ]
-- **Marketplace Profile:** [ Ecomgaint ]
-- **Client Name:** [ edysonblaise  ]
+- **Developer:** [jashim]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [edysonblaise]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

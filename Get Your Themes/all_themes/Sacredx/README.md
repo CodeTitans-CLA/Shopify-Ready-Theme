@@ -15,9 +15,9 @@
 - **Product Type:** Dropshiping Product
 
 ### 👤 Contribution Details
-- **Developer:** [ Bonna Akter ]
-- **Marketplace Profile:** [ Ecomgaint ]
-- **Client Name:** [ sacredxbrand ]
+- **Developer:** [Bonna-Akter]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [sacredxbrand]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

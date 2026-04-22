@@ -15,9 +15,9 @@
 - **Product Type:** Dropshiping Product
 
 ### 👤 Contribution Details
-- **Developer:** [ Touhidul ]
-- **Marketplace Profile:** [ Ecomgaint ]
-- **Client Name:** [ sourcing_4u   ]
+- **Developer:** [Touhidul]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [sourcing_4u]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

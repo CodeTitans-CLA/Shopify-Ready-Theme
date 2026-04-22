@@ -1,6 +1,6 @@
 # 📂 Theme Details: [ProBox]
 
-এটি একটি multi product এর স্টোর যেখানে preasuer Cleaning product প্রর্দশন করা হয়েছে।
+এটি একটি multi product এর স্টোর যেখানে Sports Acessories Proudt প্রর্দশন করা হয়েছে।
 ### 📥 Download Theme
 [Download Zip File](./theme_export__probox-eu-com-fussballherz__06APR2026-0900am.zip)
 
@@ -15,8 +15,8 @@
 - **Product Type:** Dropshiping Product
 
 ### 👤 Contribution Details
-- **Developer:** [ Unknown ]
-- **Marketplace Profile:** [ Ecomgaint ]
+- **Developer:** [Prosanto]
+- **Marketplace Profile:** [Ecomgaint]
 - **Client Name:** [ Unknown  ]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active

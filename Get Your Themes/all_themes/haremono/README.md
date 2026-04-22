@@ -1,6 +1,6 @@
 # 📂 Theme Details: [Haremono]
 
-এটি একটি multi product এর স্টোর যেখানে visual item product প্রর্দশন করা হয়েছে।
+এটি একটি multi product এর স্টোর যেখানে Traditional Japaness Product প্রর্দশন করা হয়েছে।
 ### 📥 Download Theme
 [Download Zip File](./theme_export__haremono-com-tinker__10APR2026-1135pm.zip)
 
@@ -15,9 +15,9 @@
 - **Product Type:** Personal produt
 
 ### 👤 Contribution Details
-- **Developer:** [ Imon ]
-- **Marketplace Profile:** [ Web Nest ]
-- **Client Name:** [ hirokisk8   ]
+- **Developer:** [Imon]
+- **Marketplace Profile:** [WebNest]
+- **Client Name:** [hirokisk8]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

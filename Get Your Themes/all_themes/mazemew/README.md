@@ -15,9 +15,9 @@
 - **Product Type:** Dropshiping produt
 
 ### 👤 Contribution Details
-- **Developer:** [ Imon ]
-- **Marketplace Profile:** [ Ecomgaint ]
-- **Client Name:** [ mehdiaitlhaj99 ]
+- **Developer:** [Imon]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [mehdiaitlhaj99]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

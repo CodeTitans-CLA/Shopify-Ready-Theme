@@ -15,9 +15,9 @@
 - **Product Type:** POD
 
 ### 👤 Contribution Details
-- **Developer:** [ Naeem ]
-- **Marketplace Profile:** [ Ecomgaint ]
-- **Client Name:** [ kingdubi7  ]
+- **Developer:** [Naeem]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [kingdubi7]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

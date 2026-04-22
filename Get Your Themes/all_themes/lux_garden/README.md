@@ -15,9 +15,9 @@
 - **Product Type:** Personal produt
 
 ### 👤 Contribution Details
-- **Developer:** [ Naeem ]
-- **Marketplace Profile:** [ Ecomgaint]
-- **Client Name:** [ izas_re ]
+- **Developer:** [Naeem]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [izas_re]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 

@@ -15,9 +15,9 @@
 - **Product Type:** Persoinal Product
 
 ### 👤 Contribution Details
-- **Developer:** [ Naeem ]
-- **Marketplace Profile:** [ Ecomgaint ]
-- **Client Name:** [ katrina_yip816  ]
+- **Developer:** [Naeem]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [katrina_yip816]
 <!-- - **Delivery Date:** 12 April 2026 -->
 - **Status:** ✅ Active
 
