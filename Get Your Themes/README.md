@@ -33,6 +33,12 @@
 | **Fabera** | [Visit Live](https://www.shopfabera.com/) | `N/A` | minimog | Bueaty and pet shop | Al-Amin | Ecomgaint | [📂 View Folder](./all_themes/fabera/) |
 | **Zentic spark** | [Visit Live](https://zenticspark.com/) | `N/A` | minimog | Tooth Braush shop | Al-Amin | Ecomgaint | [📂 View Folder](./all_themes/zenticspark/) |
 | **Maison Ayana** | [Visit Live](https://0idwg4-fs.myshopify.com/) | `N/A` | minimog | drinking water | Ananna Paul | Ecomgaint | [📂 View Folder](./all_themes/maison-ayana/) |
+| **Anbabel** | [Visit Live](https://anbabel.myshopify.com/) | `laydre` | minimog | Body Shaper | Imon | Ecomgaint | [📂 View Folder](./all_themes/anbabel/) |
+| **Aura Plus Official** | [Visit Live](https://auraplus.com.pk/) | `N/A` | minimog | Skin care | Shawon | Ecomgaint | [📂 View Folder](./all_themes/aura-plus-official/) |
+| **By Your Grace Boutique** | [Visit Live](https://by-your-grace-boutique.myshopify.com/) | `sohkri` | minimog | Boutiques Cloth| Imon | Ecomgaint | [📂 View Folder](./all_themes/by-your-grace-boutique/) |
+| **Duration** | [Visit Live](https://durationgcc.myshopify.com/) | `bietwo` | minimog | custom POD| Prosanto | Ecomgaint | [📂 View Folder](./all_themes/Duration/) |
+| **Endless Possibilites** | [Visit Live](https://endless-possibilities-engraving-llc-2.myshopify.com/) | `N/A` | minimog | Costom POD| Naeem | Ecomgaint | [📂 View Folder](./all_themes/endless/) |
+| **Ground & Grown** | [Visit Live](https://ground-grown.myshopify.com/) | `N/A` | minimog | Tea selling shop| Imon | Ecomgaint | [📂 View Folder](./all_themes/ground-grown/) |
 
 
 
