@@ -39,6 +39,25 @@
 | **Duration** | [Visit Live](https://durationgcc.myshopify.com/) | `bietwo` | minimog | custom POD| Prosanto | Ecomgaint | [📂 View Folder](./all_themes/Duration/) |
 | **Endless Possibilites** | [Visit Live](https://endless-possibilities-engraving-llc-2.myshopify.com/) | `N/A` | minimog | Costom POD| Naeem | Ecomgaint | [📂 View Folder](./all_themes/endless/) |
 | **Ground & Grown** | [Visit Live](https://ground-grown.myshopify.com/) | `N/A` | minimog | Tea selling shop| Imon | Ecomgaint | [📂 View Folder](./all_themes/ground-grown/) |
+| **Hermane Studio** | [Visit Live](https://hermanestudio.com/) | `N/A` | minimog | Heair Extention| Imon | Ecomgaint | [📂 View Folder](./all_themes/hermanestudio/) |
+| **HidesCo** | [Visit Live](https://hidescoleatherkeychain.myshopify.com/) | `unknown` | minimog | Key accesoriess| Al-Amin | Ecomgaint | [📂 View Folder](./all_themes/hidesco/) |
+| **In8Longevity** | [Visit Live](https://in8longevitypeptides.com/) | `steoli` | minimog | Peptidies| Imon | WebNest | [📂 View Folder](./all_themes/in8longevity/) |
+| **Joli Creative** | [Visit Live](https://joli-creative.myshopify.com/) | `nieltu` | minimog | Custom POD| Touhidul | Ecomgaint | [📂 View Folder](./all_themes/joli-creative/) |
+| **Elite Essential** | [Visit Live](https://ks07tt-ju.myshopify.com/) | `1` | minimog | Home Appliance| Prosanto | Ecomgaint | [📂 View Folder](./all_themes/elite-essential/) |
+| **Little Waymakers** | [Visit Live](https://little-waymakers-2.myshopify.com/) | `N/A` | minimog | Baby Shop| Bonna Akter | Ecomgaint | [📂 View Folder](./all_themes/littlewaymakers/) |
+| **Loam and Concrete** | [Visit Live](https://loamandconcrete.com/) | `N/A` | minimog | Custom Clothing Brand| Bonna Akter | Ecomgaint | [📂 View Folder](./all_themes/loam-and-concrete/) |
+| **Luxury For Less Co** | [Visit Live](https://luxury-for-less-co.myshopify.com/) | `tutohr` | minimog | Skin care| Prosanto | Ecomgaint | [📂 View Folder](./all_themes/luxury-for-less-co/) |
+| **Million Rose** | [Visit Live](https://millionrose.ca/) | `N/A` | minimog | Gift Shop | Tohidul | Ecomgaint | [📂 View Folder](./all_themes/million-rose/) |
+| **My CampusCursh** | [Visit Live](https://strongmindco.com/) | `N/A` | minimog | Clothing Brand | Prosanto | Ecomgaint | [📂 View Folder](./all_themes/my-campus/) |
+| **Nwaky Artisan perfumery** | [Visit Live](https://nwaky.com/) | `N/A` | minimog | Perfume Brand | Al-Amin | Ecomgaint | [📂 View Folder](./all_themes/nwaky-artisan-perfumery/) |
+| **Purple Smile** | [Visit Live](https://www.purplesmileofficial.com/) | `N/A` | minimog | Tooth Product | Jashim | Ecomgaint | [📂 View Folder](./all_themes/purple-smile/) |
+| **SHWCare** | [Visit Live](https://shwcare.com/) | `SSP23` | minimog | Health & Wellness | Naeem | Ecomgaint | [📂 View Folder](./all_themes/shwcare/) |
+| **The Curvy Italian** | [Visit Live](https://east-sister-rock-apparel.myshopify.com/) | `N/A` | minimog | Tousit sports Rent | Prosanto | Ecomgaint | [📂 View Folder](./all_themes/the-curvy-Italian/) |
+| **Luxe Glamour** | [Visit Live](https://theluxeglamourstore.net/) | `N/A` | minimog | Home Appliance| Al-Amin | Ecomgaint | [📂 View Folder](./all_themes/luxe-glamour/) |
+| **Lenny's Tackle** | [Visit Live](https://www.lennystackle.co.uk/) | `lahpeu` | minimog | catche fishing| imon | Ecomgaint | [📂 View Folder](./all_themes/lenny's-tackle/) |
+| **Perfectly Aligned Printing** | [Visit Live](https://www.perfectlyalignedprinting.com/) | `N/A` | minimog | clothing brand| porsanto | Web Nest | [📂 View Folder](./all_themes/perfectly-aligned-printing/) |
+| **Urban Reader Bookstore** | [Visit Live](https://www.urbanreaderbook.com/) | `N/A` | minimog | Book Shop| Imon | Ecomgaint | [📂 View Folder](./all_themes/urban-reader-bookstore/) |
+| **Werke Jewellery** | [Visit Live](https://www.werke.com.au/) | `N/A` | minimog | Jewellery Shop| Naeem | webNest | [📂 View Folder](./all_themes/werke-jewellery/) |
 
 
 

@@ -1,0 +1,28 @@
+# 📂 Theme Details: [Nwaky Artisan perfumery]
+
+এটি একটি multi product এর স্টোর যেখানে perfume product প্রর্দশন করা হয়েছে।
+### 📥 Download Theme
+[Download Zip File](./theme_export_nwaky_artisan_perfumery_myshopify_com_minimog_4_1_0.zip)
+
+### 🖼️ Preview
+![Homepage Screenshot](./home.png)
+
+### 🛠 Project Information
+- **Live URL:** [Visit Website](https://nwaky.com/)
+- **Store Password:** `N/A`
+- **Theme Name:** Minimog
+- **Website Type:** Perfume
+- **Product Type:** Personal Product
+
+### 👤 Contribution Details
+- **Developer:** [Al-Amin]
+- **Marketplace Profile:** [Ecomgaint]
+- **Client Name:** [chesil1]
+<!-- - **Delivery Date:** 12 April 2026 -->
+- **Status:** ✅ Active
+
+### 📥 Download Theme
+[Download Zip File](./theme_export_nwaky_artisan_perfumery_myshopify_com_minimog_4_1_0.zip)
+
+---
+*Developed by Code Titans Team*
